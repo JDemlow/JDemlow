@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JDemlow
-- 👀 I’m a freelance software engineer specializing in full stack web apps and web development.
+- 👀 I’m a software engineer specializing in front-end web development.
 - 🌱 I’m open to work for individual clients, as well as contract and full time positions.
 - 💞️ Always looking to collaborate on open source projects.
 - 📫 You can reach me on twitter @james_demlow, by email at jdemlowdev@gmail.com, and linkedin: https://www.linkedin.com/in/jamesdemlow/
