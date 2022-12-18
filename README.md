@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm James Demlow</h1>
 <h3 align="center">I’m a software engineer specializing in front-end web development.</h3>
-
-<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🔭 I’m currently working on: [Explore Our National Parks](https://explorenationalparks.netlify.app/)
 
