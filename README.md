@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm James Demlow</h1>
 <h3 align="center">I’m a software engineer specializing in front-end web development.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/14945785/208280832-917d2fea-f448-43f9-91a7-a006c7c64344.png">
+">
 
 - 🔭 I’m currently working on: [Explore Our National Parks](https://explorenationalparks.netlify.app/)
 
