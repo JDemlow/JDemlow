@@ -12,7 +12,7 @@
 
 - 🔭 Most recently, I've started: [QR Creation Lab](https://qrcreationlab.netlify.app/)
 
-- 👨‍💻 My consulting developer portfolio: [James Demlow](https://jamesdemlow.com/)
+- 👨‍💻 My consulting developer portfolio: [James Demlow Portfolio](https://jamesdemlow.com/)
 
 - 📫 How to reach me: **jdemlowdev@gmail.com**
 
