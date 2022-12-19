@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **jdemlowdev@gmail.com**
 
-- 📄My resume can be found at: [james-demlow-resume.netlify.app/](james-demlow-resume.netlify.app/)
+- 📄My resume can be found at: [https://james-demlow-resume.netlify.app/](james-demlow-resume.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
