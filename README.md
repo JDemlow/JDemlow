@@ -12,11 +12,11 @@
 
 - 🔭 Most recently, I've started: [QR Creation Lab](https://qrcreationlab.netlify.app/)
 
-- 👨‍💻 My consulting developer portfolio: [https://jamesdemlow.com/](https://jamesdemlow.com/)
+- 👨‍💻 My consulting developer portfolio: [James Demlow](https://jamesdemlow.com/)
 
 - 📫 How to reach me: **jdemlowdev@gmail.com**
 
-- 📄My resume can be found at: [https://james-demlow-resume.netlify.app/](james-demlow-resume.netlify.app/)
+- 📄My resume can be found at: [James Demlow Resume](https://james-demlow-resume.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
