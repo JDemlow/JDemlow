@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
-- 🔭 I’m currently working on: [Explore Our National Parks](https://explorenationalparks.netlify.app/)
+- 🔭 I’m currently working on: [Mimosas Training App](https://github.com/JDemlow/mimosas-training-app-v2.0)
 
-- 🌱 I’m currently working with: **Node JS, JavaScript, Tailwind CSS, Bootstrap, CSS, HTML**
+- 🌱 I’m currently working with: **JavaScript, React, Node JS, MongoDB, Tailwind CSS, Firebase**
 
 - 🔭 I’m also working on: [Mimosas Bartender Database](https://mimosas-drink-database.netlify.app/)
 
-- 🔭 Most recently, I've started: [QR Creation Lab](https://qrcreationlab.netlify.app/)
+- 🔭 Most recently, I've started: [Chat-thulhu Social Media App](https://github.com/JDemlow/social-media-app)
 
-- 👨‍💻 My consulting developer portfolio: [James Demlow Portfolio](https://jamesdemlow.com/)
+- 👨‍💻 My developer portfolio: [James Demlow Portfolio](https://jamesdemlowdev.com/)
 
 - 📫 How to reach me: **jdemlowdev@gmail.com**
 
