@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A3DF7&background=FF4CCE00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+James+Demlow)](https://git.io/typing-svg)
-<h3 align="center">I’m a software engineer specializing in front-end web development.</h3>
+<h3 align="center">I’m a software engineer specializing in full stack JavaScript / React web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
