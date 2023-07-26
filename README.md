@@ -16,7 +16,7 @@
 
 - 📫 How to reach me: **jdemlowdev@gmail.com**
 
-- 📄My resume can be found at: [James Demlow Resume](https://james-demlow-resume.netlify.app/)
+- 📄My resume can be found at: [James Demlow Resume](https://drive.google.com/file/d/1leyweDEfAdwxRBV8PtrjjDBoDax1oKGP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
