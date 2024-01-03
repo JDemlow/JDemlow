@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working with: **JavaScript, React, Playwright, Node JS, MongoDB, Tailwind CSS, Firebase, and more**
 
-- 🔭 I’m also working on: [Mimosas Bartender Database](https://mimosas-drink-database.netlify.app/)
+- 🔭 I’m also working on: [Mimosas Employee Training](https://mimosastraining.com/)
 
 - 🔭 Most recently, I've started: [Chat-thulhu Social Media App](https://github.com/JDemlow/social-media-app)
 
