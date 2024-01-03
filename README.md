@@ -10,8 +10,6 @@
 
 - 🔭 I’m also working on: [Mimosas Employee Training](https://mimosastraining.com/)
 
-- 🔭 Most recently, I've started: [Chat-thulhu Social Media App](https://github.com/JDemlow/social-media-app)
-
 - 👨‍💻 My developer portfolio: [James Demlow Portfolio](https://jamesdemlowdev.com/)
 
 - 📫 How to reach me: **jdemlowdev@gmail.com**
