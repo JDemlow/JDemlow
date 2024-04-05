@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6A3DF7&background=FF4CCE00&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+James+Demlow)](https://git.io/typing-svg)
 <h3 align="center">I’m a software engineer specializing in full stack JavaScript / React web development.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
