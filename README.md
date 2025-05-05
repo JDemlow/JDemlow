@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: [Health Equity Tracker](https://healthequitytracker.org/)
 
-- 🌱 I’m currently working with: **JavaScript, Next.js, Google Cloud Platform, React, Playwright, Node.js, MongoDB, Tailwind CSS, Firebase, and more**
+- 🌱 I’m currently working with: **JavaScript, Next.js, Google Cloud Platform, React, TypeScript, Playwright, Node.js, MongoDB, Tailwind CSS, Firebase, and more**
 
 - 🔭 I’m also working on: [RealSleep CBT-I](https://cbti-app.vercel.app/)
 
