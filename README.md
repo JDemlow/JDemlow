@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working with: **JavaScript, React, Playwright, Node JS, MongoDB, Tailwind CSS, Firebase, and more**
 
-- 🔭 I’m also working on: [Mimosas Employee Training](https://mimosastraining.com/)
+- 🔭 I’m also working on: [RealSleep CBT-I](https://cbti-app.vercel.app/)
 
 - 👨‍💻 My developer portfolio: [James Demlow Portfolio](https://jamesdemlowdev.com/)
 
